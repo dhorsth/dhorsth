@@ -1,7 +1,7 @@
 <h1 align="center">Hello There, I am Diego Horsth</h1>
 <h3 align="center">Programmer and basketball fan</h3>
 
-- 🌱 I’m currently learning **php**
+- 🌱 I’m currently learning **python and php**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dhorsth](https://github.com/dhorsth)
 

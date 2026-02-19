@@ -1,18 +1,75 @@
-<h1 align="center">Hello There, I am Diego Horsth</h1>
-<h3 align="center">Programmer and basketball fan</h3>
+# Olá, eu sou Diego 👋
 
-- 🌱 I’m currently learning **python and php**
+Graduando em Economia e professor de Matemática, com foco na integração entre tecnologia, ensino e análise de dados.
 
-- 👨‍💻 All of my projects are available at [https://github.com/dhorsth](https://github.com/dhorsth)
+---
 
-- 💬 Ask me about **whatever you want**
+## 🚀 Sobre mim
 
-- 📫 How to reach me **diegohorst.dh@gmail.com**
+- Professor de Matemática do Ensino Médio  
+- Estudante de Economia (ênfase em análise aplicada)  
+- Interesse em tecnologia aplicada à educação e economia  
+- Buscando desenvolver soluções práticas com programação  
 
-- ⚡ Fun fact **what happens when earth stays on earth ?**
+---
+
+## 🧠 Tecnologias
+
+- Python (análise de dados, aplicações matemáticas e automação)
+- Node.js (desenvolvimento backend e scripts)
+- PHP (em processo de aprendizado)
+
+---
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento backend  
+- PHP para aplicações web  
+- Modelos econômicos e análise de dados  
+- Ferramentas computacionais para ensino de matemática  
+
+---
+
+## 📊 Projetos em destaque
+
+### 📌 Matemática Computacional
+Aplicações em Python voltadas ao ensino:
+- Funções do 1º e 2º grau com gráficos
+- Visualização matemática
+- Ferramentas didáticas
+
+### 📌 Estudos em Python
+Repositório de aprendizado contínuo:
+- Lógica de programação  
+- Estruturas de dados  
+- Scripts e automações  
+
+### 📌 Economia Aplicada
+Projetos envolvendo:
+- Regressões  
+- Análise de dados econômicos  
+- Séries temporais  
+
+---
+
+## 🎯 Objetivo
+
+Integrar programação com ensino e economia, criando ferramentas que facilitem o aprendizado e a análise de dados no mundo real.
+
+---
+
+## 📈 Em evolução
+
+Atualmente expandindo conhecimentos em PHP, com foco em desenvolvimento web e integração com backend.
+
+---
+
+## 📫 Contato
+
+- GitHub: https://github.com/dhorsth
+
+---
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
